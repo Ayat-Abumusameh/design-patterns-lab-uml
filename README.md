@@ -7,6 +7,16 @@
 
 ---
 
+## 🎥 Lecture Video
+
+This repository is accompanied by a full lecture explaining all concepts and examples.
+
+▶️ Watch on YouTube: 
+
+[Watch Lecture](https://youtu.be/uvTyvjGVlV0)
+
+---
+
 ## 📌 Overview
 
 This repository is the starting point for the **Design Patterns Lab**.
