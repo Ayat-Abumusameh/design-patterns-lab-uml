@@ -61,7 +61,7 @@ Each example demonstrates a key UML concept and its Java implementation.
 
 ### 1️⃣ Basic Class Structure
 
-📁 `examples/basic-class/`
+📁 [`examples/basic-class/`](examples/UML)
 
 Demonstrates how a class is structured:
 - Attributes (data)
@@ -77,7 +77,7 @@ A class is divided into:
 
 ### 2️⃣ Association
 
-📁 `examples/association/`
+📁 [`examples/association/`](examples/Association)
 
 Represents a simple relationship where one class **knows about** another.
 
@@ -92,7 +92,7 @@ A customer can place orders.
 
 ### 3️⃣ Aggregation
 
-📁 `examples/aggregation/`
+📁 [`examples/aggregation/`](examples/Aggregation)
 
 Represents a **whole–part relationship**, but with independent lifecycles.
 
@@ -107,7 +107,7 @@ A company has employees.
 
 ### 4️⃣ Composition
 
-📁 `examples/composition/`
+📁 [`examples/composition/`](examples/Composition)
 
 Represents **strong ownership**.
 
@@ -122,7 +122,7 @@ A computer contains a processor.
 
 ### 5️⃣ Dependency
 
-📁 `examples/dependency/`
+📁 [`examples/dependency/`](examples/Dependency)
 
 Represents temporary usage.
 
@@ -137,7 +137,7 @@ A schedule uses a course temporarily.
 
 ### 6️⃣ Realization (Interface Implementation)
 
-📁 `examples/realization/`
+📁 [`examples/realization/`](examples/Realization)
 
 Shows how a class implements an interface.
 
@@ -152,7 +152,7 @@ Different payment methods implementing the same interface.
 
 ### 7️⃣ Inheritance (Generalization)
 
-📁 `examples/inheritance/`
+📁 [`examples/inheritance/`](examples/Generalization)
 
 Represents "is-a" relationships.
 
@@ -171,7 +171,7 @@ Car and Motorcycle are types of Vehicle.
 
 ### 🍔 Activity 1: Food Delivery System
 
-📁 `activities/food-delivery/`
+📁 [`activities/food-delivery/`](activities/food-delivery/)
 
 **Task:**
 - Identify classes
@@ -185,7 +185,7 @@ Car and Motorcycle are types of Vehicle.
 
 ### 🛒 Activity 2: Online Store
 
-📁 `activities/online-store/`
+📁 [`activities/online-store/`](activities/online-store/)
 
 **Requirements:**
 - A customer has exactly one cart
@@ -202,7 +202,7 @@ Car and Motorcycle are types of Vehicle.
 1. Fork the repository
 2. Clone it locally
 3. Explore the examples
-4. Complete activities inside `/activities`
+4. Complete activities inside [`/activities`](activities)
 5. Add your solutions
 
 ---
